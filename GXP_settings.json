@@ -1,0 +1,20 @@
+{
+  "unit": "tpm",
+  "expression_field_sep": "\t",
+  "expression_header_sep": "*",
+  "info_field_sep": "\t",
+  "groupOrder": [
+    "35S::PCP1-YFP-1-Leaf_1",
+    "WT-Leaf_1",
+    "PCP1_RNAi-27-Leaf_1",
+    "SUT4_RNAi_2/5-Leaf_1",
+    "35S::PCP1-YFP-1-Leaf_3",
+    "WT-Leaf_3",
+    "PCP1_RNAi-27-Leaf_3",
+    "SUT4_RNAi_2/5-Leaf_3"
+  ],
+  "sampleOrder": [
+    "11DAT",
+    "23DAT"
+  ]
+}
